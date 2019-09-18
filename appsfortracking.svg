@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg
+  PUBLIC "-//W3C//DTD SVG 1.1//EN"
+  "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+
+<svg
+  version="1.1"
+  xmlns="http://www.w3.org/2000/svg"
+  xmlns:xlink="http://www.w3.org/1999/xlink"
+  x="0px" y="0px" width="1024px" height="1024px"
+  viewBox="0 0 1024 1024"
+  enable-background="new 0 0 1024 1024"
+  xml:space="preserve"
+  fill="#4fc3f7"
+  >
+
+<ellipse cx="125" cy="460" rx="110" ry="180"
+  transform="rotate(-15, 125, 460)"
+/>
+<ellipse cx="360" cy="225" rx="140" ry="220" />
+<ellipse cx="660" cy="225" rx="140" ry="220" />
+<ellipse cx="890" cy="460" rx="120" ry="180"
+  transform="rotate(15, 890, 460)"
+/>
+
+<path d="M300,700 c0,-300 400,-300 400,0" /> <!--Pad Top-->
+<path d="M650,650 c0,-400 500,-400 300,0"
+  transform="rotate(90, 650, 650)"
+  /> <!--Pad Right-->
+<path d="M350,650 c-10,-400 -500,-400 -300,0"
+  transform="rotate(-90, 350, 650)"
+  /> <!--Pad Left-->
+<path d="M250,750 c0,300 400,400 550,0" /> <!--Pad Bottom-->
+<path d="M320,700 l340,0 l0,100 l-340,0" /> <!--Pad Center-->
+
+</svg>
+<!--
+<path
+  d="M 300 800 c 0 +300, 400 +300, 400 0"
+  fill = "yellow"/>
+
+<ellipse
+  cx="740" cy="860" rx="120" ry="180"
+  style="fill:yellow;"
+/>
+
+
+<path d="M 128 640, h 256, v -128, l 128 256, l -128 256, v -128, h -256 Z"
+  stroke="pink"
+  stroke-width="4px"
+  fill="pink"
+  />
+<path d="M 128 128, h 256, v -128, l 128 256, l -128 256, v -128, h -256 Z"
+  stroke="pink"
+  stroke-width="4px"
+  fill="pink"
+  />
+-->
+<!--
+<rect x="0" y="0" width="1024" height="1024" fill="red" />
+<path
+  d="M 300 700 c 0 -300, 400 -300, 400 0"
+  fill = "yellow"/>
+<path
+  d="M 300 700 A 1 2, 0, 0 0, 600 700"
+  fill = "yellow"/>
+-->
+<!--
+<path d="M 128 0, V1024" stroke="black" stroke-width="2px" />
+<path d="M 0 128, H1024" stroke="black" stroke-width="2px" />
+<path d="M 256 0, V1024" stroke="black" stroke-width="2px" />
+<path d="M 0 256, H1024" stroke="black" stroke-width="2px" />
+<path d="M 384 0, V1024" stroke="black" stroke-width="2px" />
+<path d="M 0 384, H1024" stroke="black" stroke-width="2px" />
+<path d="M 512 0, V1024" stroke="black" stroke-width="2px" />
+<path d="M 0 512, H1024" stroke="black" stroke-width="2px" />
+<path d="M 640 0, V1024" stroke="black" stroke-width="2px" />
+<path d="M 0 640, H1024" stroke="black" stroke-width="2px" />
+<path d="M 768 0, V1024" stroke="black" stroke-width="2px" />
+<path d="M 0 768, H1024" stroke="black" stroke-width="2px" />
+<path d="M 896 0, V1024" stroke="black" stroke-width="2px" />
+<path d="M 0 896, H1024" stroke="black" stroke-width="2px" />
+
+-->
